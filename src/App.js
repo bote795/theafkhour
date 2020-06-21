@@ -48,6 +48,11 @@ function App() {
                         </a>
                       </li>
                       <li>
+                        <a href="https://www.youtube.com/playlist?list=PLcXfICXXon09v8pbcsH-Va2maWgw0zedQ">
+                          <FontAwesomeIcon icon={["fab", "youtube"]} />
+                        </a>
+                      </li>
+                      <li>
                         <a href="https://savepointmain.podbean.com">
                           <FontAwesomeIcon icon="rss" />
                         </a>
