@@ -83,25 +83,30 @@ function App() {
       <footer>
         <div className="footer-bottom-text">© The AFK Hour 2020</div>
         <div className="footer-socials">
-          <ul className="podcast-listenOn">
+          <ul className="podcast-listen-on">
             <li>
-              <a href="https://podcasts.apple.com/us/podcast/the-afk-hour/id1516666092">
-                <FontAwesomeIcon icon={["fab", "apple"]} />
-              </a>
-            </li>
-            <li>
-              <a href="https://open.spotify.com/show/0i4yj0045z6WP1UccdudSN">
-                <FontAwesomeIcon icon={["fab", "spotify"]} />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.youtube.com/playlist?list=PLcXfICXXon09v8pbcsH-Va2maWgw0zedQ">
+              <a href="https://www.youtube.com/channel/UCFsiH80ohbM1WKBGZiFKh5w">
                 <FontAwesomeIcon icon={["fab", "youtube"]} />
               </a>
             </li>
             <li>
-              <a href="https://savepointmain.podbean.com">
-                <FontAwesomeIcon icon="rss" />
+              <a href="https://www.facebook.com/SavePointMain">
+                <FontAwesomeIcon icon={["fab", "facebook"]} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/redirect?q=https%3A%2F%2Ftwitter.com%2FSavePointMain&event=channel_banner&redir_token=Zc-LdExPBdhh38XWMzU8bEb4-nx8MTU5Mjk3MTI1MEAxNTkyODg0ODUw">
+                <FontAwesomeIcon icon={["fab", "twitter"]} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.instagram.com%2Fsavepointmain%2F&event=channel_banner&redir_token=Zc-LdExPBdhh38XWMzU8bEb4-nx8MTU5Mjk3MTI1MEAxNTkyODg0ODUw">
+                <FontAwesomeIcon icon={["fab", "instagram"]} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.twitch.tv/savepointofficialtv">
+                <FontAwesomeIcon icon={["fab", "twitch"]} />
               </a>
             </li>
           </ul>
