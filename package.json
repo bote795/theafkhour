@@ -2,7 +2,7 @@
   "name": "theafkhour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bote795.github.io/theafkhour",
+  "homepage": "http://theafkhour.com",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-brands-svg-icons": "^5.13.1",
