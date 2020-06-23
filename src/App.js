@@ -35,7 +35,10 @@ function App() {
                     </div>
                   </Col>
                   <Col>
-                    <h4>Listen On</h4>
+                    <hr />
+                    <h3 className="podcast-listen-on-title">
+                      LISTEN AND SUBSCRIBE ON YOUR FAVORITE PLATFORMS
+                    </h3>
                     <ul className="podcast-listen-on">
                       <li>
                         <a href="https://podcasts.apple.com/us/podcast/the-afk-hour/id1516666092">

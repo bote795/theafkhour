@@ -46,6 +46,11 @@ ul li {
   padding-bottom: 10px;
   font-size: calc(10px + .5vmin);
 }
+
+.podcast-listen-on-title{
+  padding-top: 20px;
+  
+}
 .podcast-listen-on > li{
   padding: 0 13px;
 
