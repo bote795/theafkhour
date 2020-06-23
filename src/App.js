@@ -36,7 +36,7 @@ function App() {
                   </Col>
                   <Col>
                     <h4>Listen On</h4>
-                    <ul className="podcast-listenOn">
+                    <ul className="podcast-listen-on">
                       <li>
                         <a href="https://podcasts.apple.com/us/podcast/the-afk-hour/id1516666092">
                           <FontAwesomeIcon icon={["fab", "apple"]} />
@@ -80,6 +80,33 @@ function App() {
           </Col>
         </Row>
       </div>
+      <footer>
+        <div className="footer-bottom-text">© The AFK Hour 2020</div>
+        <div className="footer-socials">
+          <ul className="podcast-listenOn">
+            <li>
+              <a href="https://podcasts.apple.com/us/podcast/the-afk-hour/id1516666092">
+                <FontAwesomeIcon icon={["fab", "apple"]} />
+              </a>
+            </li>
+            <li>
+              <a href="https://open.spotify.com/show/0i4yj0045z6WP1UccdudSN">
+                <FontAwesomeIcon icon={["fab", "spotify"]} />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/playlist?list=PLcXfICXXon09v8pbcsH-Va2maWgw0zedQ">
+                <FontAwesomeIcon icon={["fab", "youtube"]} />
+              </a>
+            </li>
+            <li>
+              <a href="https://savepointmain.podbean.com">
+                <FontAwesomeIcon icon="rss" />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </footer>
     </Container>
   );
 }
