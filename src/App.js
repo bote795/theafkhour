@@ -35,7 +35,6 @@ function App() {
                     </div>
                   </Col>
                   <Col>
-                    <hr />
                     <h3 className="podcast-listen-on-title">
                       LISTEN AND SUBSCRIBE ON YOUR FAVORITE PLATFORMS
                     </h3>
