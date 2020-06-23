@@ -97,12 +97,12 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="https://www.youtube.com/redirect?q=https%3A%2F%2Ftwitter.com%2FSavePointMain&event=channel_banner&redir_token=Zc-LdExPBdhh38XWMzU8bEb4-nx8MTU5Mjk3MTI1MEAxNTkyODg0ODUw">
+              <a href="http://twitter.com/SavePointMain">
                 <FontAwesomeIcon icon={["fab", "twitter"]} />
               </a>
             </li>
             <li>
-              <a href="https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.instagram.com%2Fsavepointmain%2F&event=channel_banner&redir_token=Zc-LdExPBdhh38XWMzU8bEb4-nx8MTU5Mjk3MTI1MEAxNTkyODg0ODUw">
+              <a href="http://instagram.com/savepointmain">
                 <FontAwesomeIcon icon={["fab", "instagram"]} />
               </a>
             </li>
