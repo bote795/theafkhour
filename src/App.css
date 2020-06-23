@@ -7,7 +7,7 @@ ul {
   list-style-type: none;
 }
 ul li {
-  display: inline;
+  display: inline-block;
 }
 #root {
   background-color: #3f96f8;  
@@ -42,15 +42,25 @@ ul li {
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-.podcast-listenOn > li{
+.footer-bottom-text{
+  padding-bottom: 10px;
+  font-size: calc(10px + .5vmin);
+}
+.podcast-listen-on > li{
   padding: 0 13px;
 
 }
-.podcast-listenOn > li > a { 
+.podcast-listen-on > li > a { 
   color: #fff;
-
 }
+.podcast-listen-on > li:hover { 
+  -moz-transform: translate(-2px, -2px);
+  -ms-transform: translate(-2px, -2px);
+  -o-transform: translate(-2px, -2px);
+  -webkit-transform: translate(-2px, -2px);
+  transform: translate(-2px, -2px)
+}
+
 .center-body {
   width: 80%;
   margin: 0 auto;
