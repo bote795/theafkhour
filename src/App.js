@@ -25,7 +25,7 @@ function App() {
                   <Col>
                     <div className="podcast-descreption">
                       <p>
-                        The AFK Hour is brought to you by{" "}
+                        The AFK Hour is brought to you by
                         <a href="https://www.facebook.com/SavePointMain/">
                           SavePoint
                         </a>
