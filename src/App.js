@@ -25,12 +25,15 @@ function App() {
                   <Col>
                     <div className="podcast-descreption">
                       <p>
-                        The AFK Hour is brought to you by SavePoint. This
-                        podcast series dives into multiple topics revolving
-                        around gaming, lifestyle and friendship. It asks
-                        hardcore casual gamers about their opinions on anything
-                        and everything. No two podcasts will be the same. New
-                        episodes every Wednesday!
+                        The AFK Hour is brought to you by{" "}
+                        <a href="https://www.facebook.com/SavePointMain/">
+                          SavePoint
+                        </a>
+                        . This podcast series dives into multiple topics
+                        revolving around gaming, lifestyle and friendship. It
+                        asks hardcore casual gamers about their opinions on
+                        anything and everything. No two podcasts will be the
+                        same. New episodes every Wednesday!
                       </p>
                     </div>
                   </Col>
