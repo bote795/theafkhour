@@ -110,7 +110,7 @@ function App() {
               </a>
             </li>
             <li>
-              <a href="https://www.twitch.tv/savepointofficialtv">
+              <a href="https://www.twitch.tv/savepoint_tv">
                 <FontAwesomeIcon icon={["fab", "twitch"]} />
               </a>
             </li>
