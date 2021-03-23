@@ -90,7 +90,7 @@ function App() {
         <div className="footer-socials">
           <ul className="podcast-listen-on">
             <li>
-              <a href="https://www.youtube.com/channel/UCFsiH80ohbM1WKBGZiFKh5w">
+              <a href="https://www.youtube.com/c/SavePoint_TV">
                 <FontAwesomeIcon icon={["fab", "youtube"]} />
               </a>
             </li>
